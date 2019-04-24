@@ -1,0 +1,3 @@
+# mycgi
+
+Hello
